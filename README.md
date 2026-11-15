@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LazyJack provides a connected record system for boat owners, allowing them to log maintenance, trips, equipment, and documents in one place. The platform offers an AI assistant that can log trips or read service lists via MCP integration. It is currently in a free beta, supporting both sail and motor boats, and aims to replace scattered lists with a unified digital log.
+LazyJack provides a connected record platform for boat owners, allowing them to track equipment, maintenance, trips, documents, and parts in a single online record. Users can log trips, manage service schedules, store manuals and receipts, and share read‑only or collaborative access with partners. The service works offline and syncs when online, supports AI assistants via MCP, and is currently in a free beta for unlimited boats.
 
-**Areas:** Boat · Maintenance · Records · AI · Beta
+**Areas:** Boating · Maintenance · Records · AI · FreeBeta
 
 ## LazyJack on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for LazyJack is published on APIs.io rather than in this rep
 
 ### APIs (1)
 
-- [LazyJack API](https://apis.io/apis/lazyjack-app/lazyjack-api/) — API documented in the LazyJack user guide, but no machine‑readable contract was found.
+- [LazyJack API](https://apis.io/apis/lazyjack-app/lazyjack-api/) — API reference for LazyJack platform
 
 ### Published properties
 
@@ -92,13 +92,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://lazyjack.app/)
 - [Documentation](https://lazyjack.app/guide/)
-- [Getting started](https://lazyjack.app/signup?from=nav)
+- [Sign up](https://lazyjack.app/signup?from=nav)
+- [Support](https://lazyjack.app/guide/setting-up.html)
 - [Terms of service](https://lazyjack.app/terms.html)
 - [Privacy policy](https://lazyjack.app/privacy.html)
 
 ## API Evangelist rating
 
-**Kin Score 13.0** — emerging · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 15.9** — emerging · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
@@ -106,10 +107,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 21.4 |
-| Access clarity | 17.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 34.2 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 24.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -124,7 +125,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -136,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lazyjack-app/](https://apis.io/providers/lazyjack-app/).
 
